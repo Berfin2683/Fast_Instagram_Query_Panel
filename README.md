@@ -3,7 +3,7 @@ Fast Instagram Query Panel, Hesap Kuruluş Tarihi ve ID öğrenme
 
 ## Resimler
 
-![image](https://github.com/fastuptime/Fast_Instagram_Query_Panel/assets/63351166/7a661ec0-d675-45f1-a5bd-43f166a3b494)
+![image](https://github.com/fastuptime/Fast_[Instagram](https://www.instagram.com/osmantuna_?igsh=bWg3eHpqeGY3dms4)_Query_Panel/assets/63351166/7a661ec0-d675-45f1-a5bd-43f166a3b494)
 ![image](https://github.com/fastuptime/Fast_Instagram_Query_Panel/assets/63351166/531b6257-b7a0-4eb2-ac0d-363f0ae11fb5)
 ![image](https://github.com/fastuptime/Fast_Instagram_Query_Panel/assets/63351166/0fb86130-77b1-46a4-8ef8-31f6ea608fb8)
 
